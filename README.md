@@ -1,4 +1,3 @@
-
 <h1 align="center">Loan Status Prediction</h1>
 
 # Table of Contents
